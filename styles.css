@@ -1,0 +1,57 @@
+.paul {
+  display: inline-block;
+  width: 200px;
+  height: 300px;
+
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  text-align: center;
+
+}
+
+h1 {
+  text-align: center;
+  padding: 10px;
+  font-family: sans-serif;
+  font-size: 25px;
+  background-color: black;
+  color: white;
+}
+
+.buttons {
+  text-align: center;
+}
+
+.navi {
+  display: inline;
+  text-align: center;
+  background-color: lightgrey;
+  color: white;
+  font-family: sans-serif;
+  font-size: 16px;
+  padding: 5px;
+}
+
+.bar {
+  background-color: turquoise;
+  padding: 10px;
+  font-family: sans-serif;
+  font-size: 16;
+}
+
+u {
+  color: yellow;
+  /*text-decoration: underline;color: yellow;*/
+}
+
+div a {
+  background-color: yellow;
+
+}
+
+.edde {
+  background-color: yellow;
+  text-align: center;
+}
