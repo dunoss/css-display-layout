@@ -41,10 +41,6 @@ h1 {
   font-size: 16;
 }
 
-u {
-  color: yellow;
-  /*text-decoration: underline;color: yellow;*/
-}
 
 div a {
   background-color: yellow;
@@ -54,4 +50,15 @@ div a {
 .edde {
   background-color: yellow;
   text-align: center;
+}
+
+.end {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+.six {
+  border-bottom: medium solid yellow;
 }
